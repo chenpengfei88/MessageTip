@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MessageTipView">
+        <attr name="numberspacing" format="dimension" />
+        <attr name="criclecolor" format="color" />
+        <attr name="numbercolor" format="color" />
+        <attr name="number" format="string" />
+        <attr name="numbersize" format="dimension" />
+    </declare-styleable>
+
+</resources>
